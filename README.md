@@ -9,20 +9,20 @@ The dataset has listings activities for hosts and reviews from guests who visite
 3.	File Descriptions
 4.	Results
 <br><br>
-**Installation**
+Installation
     A. Download and install a recent version of Python Anaconda distribution 
 <br>
     B. Clone the repository to a local drive and run all files
 <br><br>
-**Project Motivation**
+Project Motivation
 In this project, I am interested in answering the following business questions: <br>
     A. Which neighborhood have maximum listing and are costly? <br>
     B. How property type varies across neighborhood? <br>
     C. Can we predict the price of a given listing with certain features? 
 <br> <br>
-**File Description**
+File Description
     The Boston_AirbnB_Listings_Analysis.ipynb: Answers the business questions above. <br>
     The data folder has the csv file used in this analysis listings.csv : Airbnb Boston listings 
 <br><br>
-**Results**
+Results
     My findings can be found [here](https://medium.com/@balamurali91/analysis-of-boston-neighborhoods-and-price-prediction-using-airbnb-listings-2b400f813845).
