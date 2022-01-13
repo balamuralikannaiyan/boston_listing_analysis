@@ -24,4 +24,4 @@ File Description <br>
 The Boston_AirbnB_Listings_Analysis.ipynb: Answers the business questions above. <br>
 The data folder has the csv file used in this analysis listings.csv : Airbnb Boston listings <br><br>
 Results <br>
-My findings can be found [here.](https://medium.com/@balamurali91/analysis-of-boston-neighborhoods-and-price-prediction-using-airbnb-listings-2b400f813845)
+My findings can be found [here](https://medium.com/@balamurali91/analysis-of-boston-neighborhoods-and-price-prediction-using-airbnb-listings-2b400f813845)
